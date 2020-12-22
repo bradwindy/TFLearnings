@@ -1,0 +1,7 @@
+{
+  "python.pythonPath": "/Users/bradleywindybank/opt/anaconda3/envs/tf/bin/python",
+  "code-runner.runInTerminal": true,
+  "code-runner.executorMap": {
+    "python": "/Users/bradleywindybank/opt/anaconda3/envs/tf/bin/python"
+  }
+}
