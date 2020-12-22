@@ -13,7 +13,6 @@ A repo for all of my learnings with tensorflow. This project is part of me refre
 
 ## Prerequisites
  - Anaconda 3
- - VS Code
-      - Extensions:
-          - Python
-          - Code Runner (Not needed, but handy)
+ - VS Code and Extensions:
+     - Python
+     - Code Runner *(Not needed, but handy)*
