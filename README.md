@@ -12,6 +12,6 @@ NOTE: The conda command may not work succesfully on all platforms.
 ## Prerequisites
  - Anaconda 3
  - VS Code
-.. - Extensions:
-.... - Python
-.... - Code Runner (Not needed, but handy)
+      - Extensions:
+          - Python
+          - Code Runner (Not needed, but handy)
